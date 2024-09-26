@@ -17,7 +17,7 @@ Este script em Python realiza uma análise estatística simples e gera visualiza
   - `matplotlib`: Para geração de gráficos.
   - `numpy`: Para operações matemáticas e manipulação de arrays.
 
-Instale as dependências utilizando o seguinte comando:
+### Instale as dependências utilizando o seguinte comando:
 
 ```bash
 pip install matplotlib numpy
